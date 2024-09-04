@@ -19,7 +19,7 @@ To remove the context menu entries, run the provided `remove_cursor_ide_from_con
 
 ## Files
 
-- `add_cursor_context_menu_with_optional_edit.reg`: Adds "Open Folder as Cursor Project" and optionally "Edit with Cursor."
+- `add_cursor_ide_to_context_menu.reg`: Adds "Open Folder as Cursor Project" and optionally "Edit with Cursor."
 - `remove_cursor_ide_from_context_menu.reg`: Removes all added entries from the context menu.
 
 ## Usage
