@@ -10,9 +10,8 @@ This repository provides `.reg` files that integrate the **Cursor IDE** into the
 ## Installation
 
 1. Download the `.reg` file(s) from this repository.
-2. Change "your_name" with your user name in `add_cursor_ide_to_context_menu.reg`.
-3. Double-click the file to add it to your registry.
-4. **Optional**: To enable "Edit with Cursor," uncomment the relevant lines in the `.reg` file.
+2. Double-click the file to add it to your registry.
+3. **Optional**: To enable "Edit with Cursor," uncomment the relevant lines in the `.reg` file.
 
 ## Removal
 
