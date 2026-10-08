@@ -31,3 +31,7 @@ To remove the context menu entries, run the provided `remove_cursor_ide_from_con
 ## License
 
 This project is licensed under the MIT License.
+
+## Files and removal
+
+The registry files are the implementation: [add the menu entries](add_cursor_ide_to_context_menu.reg) or [remove them](remove_cursor_ide_from_context_menu.reg). Check the Cursor installation path before applying the add file. The removal file reverses the menu integration without uninstalling Cursor.
